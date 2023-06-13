@@ -38,7 +38,7 @@ function Funcion() {
             <booton onClick={saludo} className="boton">Calcular</booton>
 
             <div className="mostrar">
-                <h3 className="titulo">Resultado</h3>
+                <h3 className="titulo">Resultados</h3>
                 <p className="parrafo">La ecuacion de la recta es: </p>
                 <div className="mostraresultados"></div>
             </div>
